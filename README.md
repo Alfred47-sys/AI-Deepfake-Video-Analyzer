@@ -9,7 +9,7 @@ An advanced web application for detecting AI-generated and manipulated videos us
 - Detailed scoring metrics
 
 ## How to Use
-1. Open `index.html` in a web browser
+1. Copy and paste URL in a web browser
 2. Upload a video file
 3. Click "Analyze for Deepfakes"
 4. View detailed results
